@@ -1,6 +1,8 @@
 # Deep learning course
 
-This repo supplements Deep Learning course taught at YSDA and HSE @spring'20. _For previous iteration visit the [fall19 branch](https://github.com/yandexdataschool/Practical_DL/tree/fall19)._
+Deep Learning course taught at Skoltech @spring'19
+
+Homeworks solved
 
 Lecture and seminar materials for each week are in ./week* folders. Homeworks are in ./homework* folders.
 
